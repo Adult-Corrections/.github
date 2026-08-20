@@ -1,4 +1,3 @@
-# .github
 # Adult-Corrections Shared GitHub Configuration
 
 This repository contains shared Copilot task files, instructions, and workflow
